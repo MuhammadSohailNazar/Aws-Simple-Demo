@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+.vs
+/Aws-Simple-Demo/.vs
+/Aws-Simple-Demo/bin
+/Aws-Simple-Demo/obj/
+/Aws-Simple-Demo/Properties/PublishProfiles/
